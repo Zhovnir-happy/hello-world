@@ -1,0 +1,22 @@
+public class Main {
+	public static void main(String[] args) {
+		int g,f,h;
+	    g=5;
+	    f=76;
+	    h=f/g;
+	    System.out.println("result is:"+h);
+	    String s;
+	    s="Hello World";
+	    System.out.println(s);
+	    if(f<=g){
+	    	System.out.println(g);
+	    }
+	    else {
+	    	System.out.println("f="+f);
+	   
+	    	
+	    }
+	    	
+	    
+	}
+}
